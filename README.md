@@ -20,7 +20,7 @@ This StatsBoard Overhaul Displays The Following Infomation:
 - Clear The Following: (Time LIFETIME) or (Time SESSION) or (Tag LIFETIME) or (Tag SESSION)
 - Profile Picture Set It To Whatever You Want! (.png Files ONLY) - Not work quite yet
  
-# How To Use Profile Pictures:
+# How To Use Profile Pictures: - not done yet.
 (FOLDER WILL BE INCLUDED WITH THE FILE ON DOWNLOAD PLACE BOTH IN PLUGINS)
 - Go To Your "StatsBoard-Overhaul-PFP" Folder Located In The Same Place You Put The DLL (Main File).
 - Inside That Folder Add As Many .png's As You Want. Use The Cycle On The Board To Switch Between Them.
