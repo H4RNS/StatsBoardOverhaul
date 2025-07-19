@@ -1,9 +1,8 @@
-# STATS BOARD OVERHAUL
+<img width="1608" height="1077" alt="Screenshot 2025-05-14 212149" src="https://github.com/user-attachments/assets/3f2af013-649c-43cf-941b-9c7876d8f6ab" /># STATS BOARD OVERHAUL
 
 This StatsBoard Overhaul Displays The Following Infomation:
 
-<img width="1608" height="1077" alt="Screenshot 2025-05-14 212149" src="https://github.com/user-attachments/assets/c4d77c85-fe61-4de1-a41d-86b569918e13" />
-
+<img width="1608" height="1077" alt="Screenshot 2025-05-14 212149" src="https://github.com/user-attachments/assets/130fd88a-76f9-4975-a1b3-7fb653d19792" />
 
 ## GamePlay Stats:
 - TAG Saved Data: How Many Tags And How Many Times You Got Tagged. (LIFETIME)
